@@ -48,3 +48,4 @@ const abi = [
 const contract = new web3.eth.Contract(abi, address);
 
 export default contract;
+//comment
